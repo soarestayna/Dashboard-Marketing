@@ -68,7 +68,7 @@ Dados fictícios e customizados fornecidos pelo curso DSA - Data Science Academy
 Contém informações fictícias sobre clientes, campanhas, vendas e localização geográfica.
 
 ##
-![camp-marketing1](https://github.com/user-attachments/assets/3557c059-a117-497c-8cfd-332a510a94d8)
+![camp-marketing1](https://github.com/user-attachments/assets/3cb89109-ff4e-48e6-bc3b-c974cae48887)
 
 ![camp-marketing2](https://github.com/user-attachments/assets/17885763-2548-4c80-8cd6-2c525e7ef978)
 
